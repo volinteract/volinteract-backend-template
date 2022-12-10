@@ -10,7 +10,7 @@
     "cors": "^2.8.5",
     "dotenv": "^7.0.0",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "graphql": "^14.2.1",
     "graphql-tag": "^2.10.1",
     "graphql-tools": "^4.0.4",
